@@ -40,4 +40,10 @@ The complete analysis report will be added here.
 
 Explore the complete Walmart customer purchase behavior analysis, including exploratory data analysis, statistical inference, confidence intervals, and business insights.
 
-📊 View Complete Walmart Case Study (PDF)
+📄 Case Study Report
+
+## 📄 Case Study Report
+
+Explore the complete Walmart customer purchase behavior analysis, including exploratory data analysis, statistical inference, confidence intervals, and business insights.
+
+**[📊 View Complete Walmart Case Study (PDF)](Walmart_Case_Study.pdf)**
