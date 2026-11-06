@@ -35,3 +35,9 @@ Confidence Interval Estimation
 📄 Case Study Report
 
 The complete analysis report will be added here.
+
+📄 Case Study Report
+
+Explore the complete Walmart customer purchase behavior analysis, including exploratory data analysis, statistical inference, confidence intervals, and business insights.
+
+📊 View Complete Walmart Case Study (PDF)
