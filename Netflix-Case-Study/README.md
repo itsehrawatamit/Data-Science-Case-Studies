@@ -16,3 +16,5 @@ Exploratory Data Analysis (EDA) of Netflix movies and TV shows using Python.
 - Identify popular genres
 - Analyze content addition trends
 - Study monthly and yearly patterns
+
+This case study explores Netflix's content catalog through exploratory data analysis, including country-wise distribution, content trends, genres, and seasonal patterns.
